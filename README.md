@@ -1,5 +1,20 @@
 # Image_Target
 Image Target project that uses augmented reality to display 3D objects on the 2D images
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+PROJECT DEMO:
+
+Follow these steps to checkout this project :
+
+https://github.com/Priyal-tech/Image_Target/assets/76651983/6205b288-214b-4bdc-9eb3-07e151bb8273
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+1) Clone the folder
+2) Download Vuforia sdk using link https://developer.vuforia.com/downloads/sdk?_=1684552394 or
+Go to link https://developer.vuforia.com/ then > Downloads > Add Vuforia Engine to a Unity Project or upgrade to the latest version add-vuforia-package-10-15-4.unitypackage (139.57 MB) , login to Download
+3) Drop and drag vuforia package downloaded in step2 and garden package downloaded in step 1 to assest folder of unity.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CREATING FROM BEGINNING:
 
 Inorder to CREATE Image target using Augmented Reality , downloads required are:
 1) Download UNITY 
@@ -21,4 +36,4 @@ After downloading the packages , follow these steps to create a image target usi
 9) Click on the Image target , under the inspector tab > Image Target Behaviour Type : change from image to database . select your database name.
 10) Under image target drop .fbx model and now push play button to jump from Scene to Game and finally you can show image to track and import targetted image.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
